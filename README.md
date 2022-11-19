@@ -1,6 +1,6 @@
 # Tod's papers stash
 
-This is where I'll stash papers if the primary URL disappears out from under me.
+This is where I'll stash papers just in case the primary URL disappears off the internet.
 
 Note that for most (well, currently, all) of the papers in here, I don't actually hold the
 copyright to -- they were work for hire. If you'd like to reprint them, you should
